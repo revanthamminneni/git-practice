@@ -1,2 +1,4 @@
 This is my data
 along with photo
+
+crezte an avatar for user
